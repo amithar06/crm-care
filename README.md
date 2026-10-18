@@ -10,6 +10,12 @@ CRM records can become inconsistent over time due to missing information, invali
 
 This project demonstrates a lightweight interface for reviewing data-quality issues and organising support operations.
 
+## Preview
+
+![CRM Care dashboard](screenshots/Overview.png)
+
+**Live demo:** https://crm-hygiene.netlify.app/
+
 ## Features
 
 - **Data quality review:** Identify missing fields, invalid email addresses, potential duplicate records, and inconsistent company information.
